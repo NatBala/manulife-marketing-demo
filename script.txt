@@ -1,0 +1,172 @@
+# 5-Minute Demo Script - Marketing Insights Advisor Platform
+
+## Demo Overview (5 minutes total)
+This demo showcases an AI-powered advisor matching and marketing content generation platform for financial advisors.
+
+---
+
+## OPENING (30 seconds)
+
+**"Today I'll demonstrate our Marketing Insights Advisor Platform - an AI-powered tool that helps financial advisors generate personalized marketing content by matching client needs with expert advisor insights."**
+
+**"Let's see how it works in practice..."**
+
+[Navigate to the application at localhost:8083]
+
+---
+
+## PHASE 1: DATE RANGE & DEEP RESEARCH (1 minute 45 seconds)
+
+### Landing Page Setup (15 seconds)
+**"First, we select our analysis period - January 1st to July 27th, 2025. Notice the 'Deep Think Mode' toggle - this activates our advanced AI reasoning engine. Let's enable this for comprehensive analysis."**
+
+[Click on date range selector, set dates, toggle Deep Think Mode ON]
+
+### Research Timeline Visualization (90 seconds)
+**"When we click 'Start Deep Research', watch our horizontal timeline showing all 6 research phases simultaneously."**
+
+[Click "Start Deep Research"]
+
+**"Our AI processes through 6 phases - see each step light up with animations:"**
+
+#### Stages 1-2: Data & Query Generation (20-25 seconds)
+**"Data Extraction - connecting to Salesforce CRM, pulling 49k client records. Now Query Generation - our Knowledge Graph generates intelligent searches using semantic relationships. Notice the blue pulsing icons and timeline filling."**
+
+[Point to active icons and progress line]
+
+#### Stages 3-4: Classification & Theme Extraction (25-30 seconds)  
+**"Classification & Structuring - organizing insights by relevance, clustering into themes. Theme Extraction - building hierarchical topic structures. See completed steps show green checkmarks as we progress through the gradient timeline."**
+
+[Point to checkmarks appearing, timeline advancing]
+
+#### Stages 5-6: Analysis & Report Generation (25-30 seconds)
+**"Consolidating Analysis - synthesizing findings, running correlations. Final stage - Report Generation creating comprehensive dashboards with topic frequency indicators. Watch all 6 steps complete..."**
+
+[Point to final completion with all checkmarks]
+
+### Completion Summary (15 seconds)
+**"Perfect! In 90 seconds, our AI processed thousands of data points to create this market intelligence dashboard. This engaging visualization keeps users informed while complex analysis happens behind the scenes."**
+
+---
+
+## PHASE 2: INDUSTRY RESEARCH & AI CHAT (1 minute 15 seconds)
+
+### Topic Selection Dashboard (25 seconds)
+**"Now we see our investment topics dashboard with visual frequency indicators. Notice ETFs & ETF Models shows 80% discussion frequency - indicating high advisor activity. Let's explore this area."**
+
+[Point to percentage bars, click on "ETFs & ETF Models"]
+
+### Multi-Level Navigation (25 seconds)
+**"The platform provides 3-level drill-down navigation. We can explore themes like 'Industry Shift' then drill into specific sub-themes. This hierarchical structure helps advisors find exactly what they need."**
+
+[Click through theme → sub-theme to show hierarchy]
+
+### AI Chat Integration (25 seconds)
+**"Here's a powerful differentiator - integrated GPT-3.5 chat functionality. Let's ask about ETF advantages."**
+
+[Click chat icon, type: "What are the key advantages of active ETFs over passive ones?"]
+
+**"The AI responds instantly using our knowledge base, providing expert insights advisors can use during client meetings. This makes our platform truly interactive."**
+
+[Show AI response briefly]
+
+---
+
+## PHASE 3: ADVISOR SELECTION & COMPARISON (1 minute)
+
+### Navigation & Advisor Profiles (30 seconds)
+**"Let's proceed to advisor selection. Our platform allows comparison of up to 2 advisors simultaneously. We have two specialized experts:"**
+
+[Navigate back, proceed to advisor selection]
+
+**"Michael Rodriguez - Active Fixed-Income ETF specialist from Morgan Stanley, and Sarah Chen - ETF Tax Efficiency expert from UBS."**
+
+[Select both advisors]
+
+### Professional Credentials Display (30 seconds)
+**"Notice the professional profiles with certifications, licenses, and expertise areas clearly displayed. This builds client trust and demonstrates advisor credibility. The clean, professional layout makes it easy to compare qualifications and specializations side-by-side."**
+
+[Point to certifications, licenses, and profile details]
+
+---
+
+## PHASE 4: MARKETING CONTENT GENERATION (1 minute 30 seconds)
+
+### Streaming Content Initiation (20 seconds)
+**"Now for the highlight - AI-generated marketing content that streams in real-time, simulating actual content creation. Watch as professional materials generate section by section."**
+
+[Click "Generate Content"]
+
+### Michael Rodriguez Content Showcase (35 seconds)
+**"For Michael Rodriguez, we're creating 'Why Lean into Active Fixed-Income ETFs' with clickable links to Capital Group ETF products - CGCB, CGCP, CGMU linking to actual Capital Group pages. Notice sections covering 'In-Kind Creation & Redemption' benefits, 'Intraday Liquidity' advantages, and 'Research-Driven Security Selection'."**
+
+[Point to streaming content sections and clickable links]
+
+### Sarah Chen Content Showcase (35 seconds)
+**"Sarah Chen's content focuses on 'ETF Tax Efficiency' with interactive tax efficiency explanations, 'Two Structural Levers' breakdown, clickable links to educational resources, and 'Five Advisor Use Cases' including CGMU integration. Both generate professional, compliance-ready marketing materials."**
+
+[Point to different content sections and educational links]
+
+### Professional Output & Action Buttons (20 seconds)
+**"Once generation completes, advisors can download professionally formatted HTML marketing materials, email them directly to clients, or add follow-up meetings to calendars. This transforms hours of content creation into minutes of automated generation."**
+
+[Show Download, Email, Calendar action buttons]
+
+---
+
+## CLOSING & KEY BENEFITS (30 seconds)
+
+**"In just 5 minutes, we've demonstrated how our platform:"**
+
+✅ **"Conducts comprehensive market research with AI-powered timeline visualization"**
+✅ **"Provides interactive chat functionality for instant expert insights"**  
+✅ **"Matches advisors to specific client needs and investment topics"**
+✅ **"Generates professional marketing content with embedded product links"**
+✅ **"Delivers ready-to-use materials in multiple formats"**
+
+**"This transforms how financial advisors create personalized, expert-backed marketing content - reducing preparation time from hours to minutes while maintaining professional quality and compliance."**
+
+**"Questions?"**
+
+---
+
+## DEMO NOTES & TIPS
+
+### Technical Preparation:
+- Ensure app is running on localhost:8083
+- Have browser zoom at comfortable level for audience
+- Test all features beforehand
+- Have backup plan if timeline is slow
+
+### Timing Breakdown:
+- Opening: 30 seconds
+- Date Range & Deep Research: 1:45 minutes  
+- Industry Research & AI Chat: 1:15 minutes
+- Advisor Selection & Comparison: 1:00 minute
+- Marketing Content Generation: 1:30 minutes
+- Closing & Key Benefits: 30 seconds
+- **Total: 5:30 minutes of talking time**
+- **Actual Demo Time: 5:00 minutes (includes wait times during research timeline)**
+
+### Key Selling Points to Emphasize:
+1. **Visual Timeline** - Shows comprehensive research process
+2. **AI Chat Integration** - Real-time expert assistance
+3. **Clickable Links** - Direct integration with actual financial products
+4. **Professional Output** - Ready-to-use marketing materials
+5. **Time Savings** - Hours of work reduced to minutes
+
+### Audience Interaction Points:
+- "Notice how..." (draw attention to specific features)
+- "Watch as..." (build anticipation for animations)
+- "This means..." (explain business value)
+
+### Recovery Strategies:
+- If research timeline is slow: "While this processes, let me explain..."
+- If chat doesn't work: "The chat feature integrates GPT-3.5 for..."
+- If content generation stalls: "The final result shows..."
+
+### Demo Success Metrics:
+- Audience understands the complete workflow
+- Key differentiators are highlighted (timeline, chat, links)
+- Business value is clearly communicated
+- Professional presentation quality is evident

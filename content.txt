@@ -1,0 +1,259 @@
+1. ETFs & ETF Models
+Frequency: Very High (~80%)
+Description & Insights:
+
+ETFs and ETF models are the most frequently discussed topic, reflecting a strong industry shift toward these vehicles for both core and tactical allocations.
+
+Advisors consistently cite scalability and operational efficiency as primary drivers; model portfolios built entirely with ETFs allow one-to-many implementation and dramatically reduce the time spent on manual rebalancing.
+
+Portfolio assistant and rebalancer tools let advisors apply “paper models” across hundreds of accounts in minutes, freeing them to focus on planning and relationship work.
+
+Cost transparency (no loads, no 12b-1 fees) and the ability to demonstrate measurable fee savings in client comparisons are repeatedly used as proof points when transitioning households away from legacy mutual-fund-only line-ups.
+
+Advisors are interested in ETF structure, comparisons to mutual funds, and the integration of ETF models into platforms like MWP and Freedom.
+
+Deep-dive conversations revolve around intraday trading, bid–ask spreads, and the in-kind creation/redemption mechanism that “washes out” low-basis lots and curbs capital-gains distributions.
+
+Expense-ratio math is often paired with tax-efficiency illustrations to calculate the true all-in cost difference between a fund share class and its ETF equivalent.
+
+Adoption is highest where platforms (e.g., LPL MWP, Wells Fargo UMA/Freedom) have removed ticket charges or added auto-rebalancing, eliminating operational friction that once favored mutual funds.
+
+Thematic and active ETFs are also gaining traction, with advisors seeking more information and expressing interest in sector-specific or strategy-driven ETFs.
+
+Demand skews toward precise sector tilts—technology, industrials, financials, healthcare—as well as megatrend sleeves such as AI, cybersecurity, and clean energy; advisors use these to correct portfolio imbalances or tell a forward-looking story in client reviews.
+
+Examples:
+
+“Went over the ETFs at Jones. He still hasn’t been a big adopter but sees the impact. Went over CGDV, CGIE, and CGGR.” [DC31]
+
+“He recently had done some ETF business, so we talked about that and we’re going to continue to partner as we go forward.” [DC50]
+
+“Talked about our ETFs mostly. Hit on CGDV, CGGR, CGIE. Also talked about CGSD.” [DC44]
+
+“Walked through the ETF models and gave him some confidence with those, and identified some accounts he’s going to move over.” [DC67]
+
+2. Market Outlook & Volatility
+Frequency: Very High (~75%)
+Description & Insights:
+
+Market outlook, volatility, and macroeconomic updates are a core part of nearly every advisor conversation.
+
+Advisors rely on quarterly “Outlook/IM Deck” slides and the ICA Guide’s mountain and Yo–Yo charts to frame volatility as “normal, natural, necessary.”
+
+Five-to-seven-minute market update videos are embedded into virtual client events; recordings are emailed with timestamped topic links for asynchronous viewing.
+
+Scenario analyses—short-term blips vs. prolonged disruption—are modeled in portfolio analytics software so clients see potential drawdowns and recoveries.
+
+Advisors and clients are seeking guidance on how to navigate current market conditions, including volatility, inflation, and political/economic uncertainty.
+
+Top economic indicators referenced: Fed policy and yield-curve shape, CPI/PCE “sticky” inflation prints, tariff headline risk, sector concentration (“Mag 7”), and global PMIs.
+
+Quality-tilt frameworks (“Dividends, Duration, Don’t Abandon International”) are used to justify rebalancing into higher-quality bonds, dividend growers, and non-US equities.
+
+Advisors showcase stress-test outputs (e.g., ’08 replay, pandemic crash) to validate that proposed model-portfolio mixes remain within client risk budgets.
+
+Examples:
+
+“Brenda wanted to know macroeconomic update. Went over three sectors [were] bullish on, industrials, energy, healthcare, and AI.” [DC2]
+
+“Paul asked me to cover our ‘Guide to tariffs’ and a general market update perspective on recent volatility.” [DC10]
+
+“We talked a lot about The Outlook, the five themes and the opportunity in munis as well as the Preservation Portfolios.” [DC4]
+
+“He has been getting a lot of questions from clients around market volatility, tariff, inflation, et cetera.” [DC189]
+
+3. SMAs (Separately Managed Accounts)
+Frequency: High (~40%)
+Description & Insights:
+
+SMAs are a frequent topic, especially for high-net–worth clients and those seeking customization, tax optimization, or direct indexing.
+
+Key customization levers: ESG/values screens, sector/stock restrictions (e.g., exclude employer stock), state-specific muni ladders, and dividend-yield targets.
+
+Advisors highlight tax-alpha via loss-harvesting, in-kind transitions of low-basis stock, and glidepath sale schedules to unwind concentration over multiple tax years.
+
+Advisors are interested in the availability of SMAs on platforms like MWP and UMA, and in pairing SMAs with ETF models.
+
+Common hurdle: certain SMAs (e.g., muni strategies) not yet approved on all fee-based platforms, prompting advisors to lobby for expedited due-diligence reviews.
+
+Hybrid portfolio construction—ETF core plus SMA satellite—is positioned as “best-of-both-worlds” for clients needing customization and tax-efficiency.
+
+4. Fixed Income & Bond Strategies
+Frequency: High (~35%)
+Description & Insights:
+
+Fixed income, bond funds, and related strategies are a major focus, especially in the context of market volatility and rising rates.
+
+Advisors gravitate toward intermediate-term “sweet-spot” duration (3–7 yrs) for yield-to-duration efficiency, citing analytics that show favorable starting yields without excessive interest-rate risk.
+
+Short-duration and multisector bond ETFs/funds (CGSD, CGCP) are used as cash alternatives and barbell complements, particularly when laddering treasuries feels operationally burdensome.
+
+Advisors are seeking updates on fixed income outlook, discussing the role of munis, and comparing mutual fund and ETF options for bonds.
+
+Muni SMAs and funds are positioned for tax-aware accounts, with customized state ladders and duration buckets; advisors request sample proposals and tax-equivalent yield worksheets.
+
+Active fixed-income ETFs are gaining attention as tools that can “actively manage the curve” versus static ladders, helping address reinvestment risk.
+
+There is interest in both core and specialized fixed income solutions, including intermediate-term strategies and tax-aware models.
+
+Tax-aware fixed-income models (Conservative Growth & Income, Tax-Aware Core) integrate muni, core, and short-duration sleeves, and advisors ask for yield/SEC yield factsheets to display after-tax benefits.
+
+Advisors use portfolio analytics to compare bond-fund Sharpe ratios, downside capture, and credit–quality tilts, then overlay those on client IPS targets.
+
+Examples:
+
+“Mike wanted our current take on Markets – Fixed Income and what to be thinking about now in Portfolios. Quality Theme (for F.I. and Equities with Fund and ETF ideas.”
+
+5. Thematic & Key Investment Themes
+Frequency: High (~30%)
+Description & Insights:
+
+“Key Themes to Investing in 2025,” “5 Keys to Investing,” and similar frameworks are widely used to structure conversations and presentations.
+
+Advisors leverage these decks for 30-minute investor events (often hybrid) and follow with PDF send-outs; engagement is measured via attendance, poll responses, and post-event meeting requests.
+
+The themes include AI, manufacturing renaissance, healthcare/biotech innovation, quality dividends, and global diversification; each theme is paired with specific ETF, fund, or SMA ideas (e.g., AI thematic ETFs, Global Growth SMA).
+
+These themes often include AI, manufacturing, healthcare, and biotech as megatrends, as well as quality, dividends, and global diversification.
+
+Advisors request supplementary slides on AI CAPEX cycles, reshoring beneficiaries, and the demographic drivers of healthcare/biotech demand.
+
+For each megatrend, suggested implementation vehicles are compared on cost, track record, and liquidity, helping advisors decide between thematic ETFs vs. active PM solutions.
+
+Advisors appreciate concise, actionable frameworks to communicate with clients and address current concerns.
+
+The 5-Keys brochure is prized for its one-page summaries and sticky phrases; advisors report using it as a desk reference during volatility calls.
+
+Tools integrate with behavioral coaching: Keys to Prevailing, Four-Step Action Plan, and market-volatility classics are cross-referenced so the thematic story also reinforces discipline.
+
+Examples:
+
+“We ended up going through the investment themes for 2025, talking about manufacturing, AI, and biotech pharma, and left them with the CGDV/CGGR, ETF proposal.” [DC1]
+
+“Shared Keys to Prevailing, 5 Keys to 2025, AMHIX, and CGDV/CGGR.” [DC92]
+
+“We did a four-box with the 5 Keys, started with concerns because they don’t want to move them. We can go over them. Used some of those concerns to present artificial…”
+
+6. Tariffs & Macroeconomic Issues
+Frequency: Moderate (~20%)
+Description & Insights:
+
+Tariffs, trade policy, and macroeconomic uncertainty are recurring topics, often linked to market volatility and client anxiety.
+
+Advisors deploy the Guide to Tariffs piece featuring the Four-Box framework (Decoupling, Rebalancing, Negotiating, Funding) to contextualize headline risk and outline potential market paths.
+
+Client events and webinars frequently pair the tariff guide with Keys to Prevailing and volatility charts to reassure investors during noisy news cycles.
+
+Advisors use resources like the “Guide to Tariffs” to educate clients and frame discussions about risk and opportunity.
+
+Follow-up requests include “Tariffs in 5 Charts,” election-year tariff history slides, and talking-point one-pagers to handle technical questions from engineer or business-owner clients.
+
+Portfolio implications commonly discussed: diversify supply-chain exposure, add quality dividend payers, maintain global diversification, and consider active fixed-income for flexibility.
+
+7. Practice Management / Client Conversations
+Frequency: Moderate (~15%)
+Description & Insights:
+
+Advisors are seeking support for client conversations, especially around market volatility, portfolio construction, and behavioral coaching.
+
+Tools like Four-Box, Four-Step Action Plan, and Keys to Prevailing are integrated into scripting; advisors track success via reduced panic calls and increased proactive outreach metrics.
+
+Digital resources (Turbocharge Your Brand workbook, LinkedIn marketing one-pager) are used in multi-week workshops to build brand consistency and COI engagement.
+
+Tools like the “Four Box Framework,” “How to Have a Client Conversation,” and “Keys to Prevailing” are used to structure discussions and address client fears.
+
+Storytelling analogies (man walking the hill, 7-up 3-down can) resonate, and advisors request compliance-approved slides featuring these stories for webinars.
+
+Advisors measure impact by client feedback, event attendance, and new-business follow-ups logged in CRM.
+
+Examples:
+
+“We discussed client conversations as he finds clients are more anxious today than they’ve been in a very long time. Shared thoughts around tariffs and Key Themes to Investing in 2025.” [DC6]
+
+“We discussed the client conversation around the four box framework. From there, we discussed the timely, lonely, and important ideas.” [DC225]
+
+8. Active vs. Passive / Model Portfolios
+Frequency: Moderate (~15%)
+Description & Insights:
+
+There is ongoing discussion about the merits of active vs. passive management, with many advisors using or considering model portfolios that blend both approaches.
+
+Cost considerations shape the dialogue: passive ETFs are default core holdings, while active SMAs/ETFs are justified by alpha potential, risk management, or tax customization.
+
+Advisors employ Fi360 scores, Morningstar quartile rankings, and in-house composite data to evaluate active managers before inclusion.
+
+Advisors are interested in the evolution of model portfolios, including the integration of ETFs, SMAs, and mutual funds.
+
+Active-passive hybrid models (American Funds/Vanguard) and tax-aware ETF models are popular; advisors request brochures and composite fact-sheets to explain methodology.
+
+Fee-based platforms (MWP, UMA) make it easier to mix vehicles; adoption is highest where platform fees are low and rebalancing is automated.
+
+Examples:
+
+“He is using a lot of fee based – using our active passive models as a baseline, talked about region, focus of the region – requiring, hit goals and hitting new asset bonuses, they are #1 right now, he has some capacity issues give 50% of time with region, would love our models, no real SMAs, hit on an update with the ETFs, trends, caught up on everything personal, kids are 15 (daughter) and 12 (son).” [DC42]
+
+“He has been using ETFs more and more. Talked about AMBAL turning 50 and that CGBL is now avail. Walked through the ETFs now avail at WF.” [DC17]
+
+9. Thematic / Active ETFs
+Frequency: Moderate (~12%)
+Description & Insights:
+
+Thematic ETFs (e.g., sector-specific, AI, financials) are of growing interest.
+
+Advisors want more info on thematic ETFs which may not be available yet. They seek to work in more thematic ETFs for a diversified active approach and to help show clients differentiated portfolios.
+
+The goal is to review client portfolios, identify underallocations (e.g., to financials), and suggest ETFs to boost exposure or align more with stated objectives.
+
+Examples:
+
+“He says he wants more info on our thematic etf’s which we don’t have. asked why he was wanting to work in more thematic etf’s rather than a more diversified active approach and he says he wants to be able to show a client that he has reviewed their portfolios, see’s they are underallocated to financials for example, suggest an etf to boost financials and realign their portfolios.” [DC11]
+
+“We did a broad overview, Capital Group SMA, ETF, and international.” [DC70]
+
+10. Retirement Plans / 401(k)
+Frequency: Moderate (~10%)
+Description & Insights:
+
+Retirement plan solutions, 401(k) prospecting, and plan menu enhancements are discussed, especially in the context of fee-based business and participant engagement.
+
+Advisors track plan metrics (AUM, participant count, deferral rates) and use benchmarking tools (Larkspur, John Hancock Score, Planalyzer) to win mandates.
+
+SECURE 2.0 tax credits and state auto-IRA mandates are catalysts; advisors position RecordkeeperDirect plus digital onboarding to streamline adoption.
+
+Advisors are interested in benchmarking, plan design, and digital engagement tools.
+
+Common plan-design focus areas: Safe-Harbor match formulas, automatic enrollment/escalation, profit-sharing “new comparability,” and robust payroll integration.
+
+Digital participant portals (ICanRetire.com) and online enrollment are highlighted to improve engagement metrics; advisors measure success via participation-rate lifts and plan-flow growth.
+
+Examples:
+
+“He is definitely wanting to do more retirement plans. Doesn’t always feel 100% comfortable with some of the questions that he might get, so tried to overcome that objection of him not needing to be an ERISA expert in order to do this business, keep things SIMPLE with no fees, funds, and not oversimplify it.” [DC148]
+
+“Talked through what he uses in this space. Loves the Larkspur reports and uses them.”
+
+11. Digital Tools / Portfolio Analytics
+Frequency: Low (~7%)
+Description & Insights:
+
+Portfolio analytics tools, digital onboarding, and benchmarking resources are mentioned as value-adds for advisors seeking to streamline processes and enhance client service.
+
+High-value features:
+
+Model-portfolio comparison
+
+Fund-screening by Fi360 and Morningstar metrics
+
+Stress testing
+
+Tax-aware optimization
+
+Customizable client reports
+
+Advisors request training on Portfolio Assistant “family preference” and periodic refreshers on new features; follow-up includes live demos, one-pagers, and checklists.
+
+These tools are often used to support portfolio construction, performance analysis, and client reporting.
+
+Advisors measure engagement by tracking report downloads, meeting follow-ups, and reduced manual rebalancing hours.
+
+Digital onboarding (RecordkeeperDirect, e-signature workflows) is cited as a major efficiency win in retirement plan business.
